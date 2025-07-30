@@ -1,0 +1,15 @@
+/workspaces/Ziyu/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/workspaces/Ziyu/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/workspaces/Ziyu/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/workspaces/Ziyu/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/workspaces/Ziyu/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/workspaces/Ziyu/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Ziyu/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/workspaces/Ziyu/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/workspaces/Ziyu/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/workspaces/Ziyu/ConsoleApp/obj/Debug/net8.0/ConsoleApp.sourcelink.json
+/workspaces/Ziyu/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/workspaces/Ziyu/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/workspaces/Ziyu/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/workspaces/Ziyu/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/workspaces/Ziyu/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
